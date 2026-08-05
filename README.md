@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Shreya 👋
 
-<!--
-**successfulshreya/successfulshreya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science graduate who is currently focused on becoming a Java Backend Developer.
 
-Here are some ideas to get you started:
+Right now, I'm spending most of my time:
+- ☕ Learning Java
+- 🧩 Solving DSA problems on LeetCode
+- 📝 Practicing SQL
+- ⚛️ Building React projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Java Fundamentals
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- SQL
+- Git & GitHub
+
+## 2026 Goals
+- Build consistent coding habits
+- Create meaningful projects
+- Learn Spring Boot
+- Start contributing to open source
+- Land my first Software Developer role
+
+> "Small improvements every day lead to big results."
