@@ -18,7 +18,6 @@ Right now, I'm spending most of my time:
 ## 2026 Goals
 - Build consistent coding habits
 - Create meaningful projects
-- Learn Spring Boot
 - Start contributing to open source
 - Land my first Software Developer role
 
