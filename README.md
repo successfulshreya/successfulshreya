@@ -9,7 +9,7 @@ Right now, I'm spending most of my time:
 - ⚛️ Building React projects
 
 ## Current Focus
-- Java Fundamentals
+- Mern stack projects
 - Object-Oriented Programming
 - Data Structures & Algorithms
 - SQL
